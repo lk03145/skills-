@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance Storyboard Generator"
+  short_description: "Generate Seedance 2.0 storyboards"
+  default_prompt: "Use seedance-storyboard-generator to turn this story into a multi-episode Seedance 2.0 storyboard package."

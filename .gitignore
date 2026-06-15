@@ -1,0 +1,18 @@
+~$*
+*.tmp
+*.bak
+*.log
+desktop.ini
+Thumbs.db
+
+# Generated outputs
+office_exports/
+*_TEST占位图.png
+测试报告_*.md
+测试_*.md
+
+# Video/image production outputs
+*.mp4
+*.mov
+*.avi
+*.psd
